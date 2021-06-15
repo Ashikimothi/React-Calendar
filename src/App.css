@@ -1,0 +1,30 @@
+.table{
+    margin:0 auto 20px;
+    padding: auto;
+   
+}
+.today{
+  background-color: aquamarine;
+  color: black;
+}
+.in-prev-month,
+.in-next-month{
+    opacity:0.5;
+
+}
+
+
+h1{
+    color: aqua;
+    font-size:xx-large;
+    border:0ch;
+    text-shadow: 0ch;
+    
+
+}
+p{
+    font-size: larger;
+    color: brown;
+    text-decoration: wavy;
+    text-shadow: 0pt;
+}
